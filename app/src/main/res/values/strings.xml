@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">BCS Question Bank</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="no_data_available">No Data Available to Display</string>
+    <string name="text_loading">Loading...</string>
+    <string name="copyright">Copyright 2008 - SCIRF. All Rights Reserved.</string>
+    <string name="text_finished">Finished...</string>
+    <string name="action_share">Share This App</string>
+    <string name="share_title">Share Via...</string>
+
+    <string-array name="question_bank">
+        <item>10th BCS Preliminary</item>
+        <item>11th BCS Preliminary</item>
+        <item>12th BCS Preliminary</item>
+        <item>13th BCS Preliminary</item>
+        <item>14th BCS Preliminary</item>
+        <item>15th BCS Preliminary</item>
+        <item>16th BCS Preliminary</item>
+        <item>17th BCS Preliminary</item>
+        <item>18th BCS Preliminary</item>
+        <item>19th BCS Preliminary</item>
+        <item>20th BCS Preliminary</item>
+        <item>21th BCS Preliminary</item>
+        <item>22th BCS Preliminary</item>
+        <item>23th BCS Preliminary</item>
+        <item>24th BCS Preliminary</item>
+        <item>25th BCS Preliminary</item>
+        <item>26th BCS Preliminary</item>
+        <item>27th BCS Preliminary</item>
+        <item>28th BCS Preliminary</item>
+        <item>29th BCS Preliminary</item>
+        <item>30th BCS Preliminary</item>
+        <item>31th BCS Preliminary</item>
+        <item>32th BCS Preliminary</item>
+        <item>33th BCS Preliminary</item>
+        <item>34th BCS Preliminary</item>
+        <item>35th BCS Preliminary</item>
+        <item>36th BCS Preliminary</item>
+        <item>37th BCS Preliminary</item>
+    </string-array>
+
+    <string-array name="question_bank_url">
+        <item>10th.html</item>
+        <item>11th.html</item>
+        <item>12th.html</item>
+        <item>13th.html</item>
+        <item>14th.html</item>
+        <item>15th.html</item>
+        <item>16th.html</item>
+        <item>17th.html</item>
+        <item>18th.html</item>
+        <item>19th.html</item>
+        <item>20th.html</item>
+        <item>21th.html</item>
+        <item>22th.html</item>
+        <item>23th.html</item>
+        <item>24th.html</item>
+        <item>25th.html</item>
+        <item>26th.html</item>
+        <item>27th.html</item>
+        <item>28th.html</item>
+        <item>29th.html</item>
+        <item>30th.html</item>
+        <item>31th.html</item>
+        <item>32th.html</item>
+        <item>33th.html</item>
+        <item>34th.html</item>
+        <item>35th.html</item>
+        <item>36th.html</item>
+        <item>37th.html</item>
+    </string-array>
+</resources>

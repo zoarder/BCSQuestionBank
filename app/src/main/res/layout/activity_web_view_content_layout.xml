@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_web_view_content_layout_parent_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.nurdcoder.bcsquestionbank.activities.WebViewActivity"
+    tools:showIn="@layout/activity_web_view">
+
+    <WebView
+        android:id="@+id/activity_web_view_content_layout_main_wv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/spacing_50dp" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/activity_web_view_content_layout_main_av"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/spacing_50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id" />
+</RelativeLayout>
