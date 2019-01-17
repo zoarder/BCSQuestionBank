@@ -11,7 +11,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.2.1'
+        classpath 'com.android.tools.build:gradle:3.3.0'
         classpath 'com.google.protobuf:protobuf-gradle-plugin:0.8.6'
         //noinspection GradleDynamicVersion
         classpath 'com.google.gms:google-services:4.2.0'
@@ -68,8 +68,10 @@ ext {
     LIFECYCLE_VERSION = "1.1.1"
     ROOM_VERSION = "1.0.0"
     DAGGER_VERSION = '2.5'
-    AUTO_VALUE_VERSION = '1.3'
-    AUTO_VALUE_GSON_VERSION = '0.4.2'
+    AUTO_VALUE_VERSION = '1.6'
+    AUTO_VALUE_GSON_VERSION = '0.8.0'
+    AUTO_VALUE_PARCEL_VERSION = '0.2.6'
+    AUTO_VALUE_MOSHI_VERSION = '0.4.5'
     MOCKITO_VERSION = '2.11.0'
     HAMCREST_VERSION = '1.3'
 }
