@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "495918105049",
+    "firebase_url": "https://afc-health-lab.firebaseio.com",
+    "project_id": "afc-health-lab",
+    "storage_bucket": "afc-health-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495918105049:android:92cb132c25866292",
+        "android_client_info": {
+          "package_name": "com.nurdcoder.bcsquestionbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495918105049-aq6fbnscanufud18maqiv8gqc8f166uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nurdcoder.bcsquestionbank",
+            "certificate_hash": "D594FDAAD8AC4DB735D17270910EE0304E595394"
+          }
+        },
+        {
+          "client_id": "495918105049-sgrfd62n4kp9r1u1mpgi1rb80d4mbj61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nurdcoder.bcsquestionbank",
+            "certificate_hash": "38FB12874E913094ED1A7F56F0C40152E00504F0"
+          }
+        },
+        {
+          "client_id": "495918105049-j5bs503597cbkgqv54aot17osa17ks1m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "495918105049-jlbbu0a3j6qgokrcgh2uc8r1l9fj5cco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABspuj67dcD2cRIllZdxzK7ELTxNO_xHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-66194853-4"
+          }
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495918105049-j5bs503597cbkgqv54aot17osa17ks1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
